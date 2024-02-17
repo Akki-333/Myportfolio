@@ -2,6 +2,7 @@
   "name": "react-portfolio",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://akki-333.github.io/Myportfolio/",
 
   "type": "module",
   "scripts": {
