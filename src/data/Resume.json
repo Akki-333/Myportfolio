@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Resume-1",
+    "imageSrc": "projects/resume-1.png",
+    "description": "This is my first page of my resume that shows my basic qualification.",
+    "skills": ["Education", "Academics", "Languages"]
+  },
+  {
+    "title": "Resume-2",
+    "imageSrc": "projects/resume-2.png",
+    "description": "This is second page of my resume showcasing my technical skills and aspects",
+    "skills": ["React", "Express", "Node"]
+    
+  }
+
+
+]
