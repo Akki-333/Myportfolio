@@ -1,17 +1,19 @@
 {
+  "homepage": "https://akki-333.github.io/Myportfolio/",
   "name": "react-portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "main": "index.html",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist`",
     "start": "react-scripts start",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "preview": "vite preview"
+   
   },
   "dependencies": {
     "@fontsource/outfit": "^5.0.8",
